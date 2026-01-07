@@ -10,4 +10,4 @@ If you need help getting started, check out my [Automate EVERYTHING with Ansible
 
 See my other videos here: [https://www.youtube.com/technotimlive](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
 
-Or check out <https://technotim.live> for other ways to connect
+Or check out <https://technotim.com> for other ways to connect

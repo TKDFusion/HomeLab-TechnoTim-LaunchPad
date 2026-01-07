@@ -10,7 +10,7 @@ See each folder for details 📁
 
 ## Credits
 
-Created by [TechnoTim](https://technotim.live) and updated by the community with 💛
+Created by [TechnoTim](https://technotim.com) and updated by the community with 💛
 
 ► YouTube https://www.youtube.com/technotimlive
 
@@ -18,6 +18,6 @@ Created by [TechnoTim](https://technotim.live) and updated by the community with
 
 ► Twitter https://twitter.com/TechnoTimLive
 
-► Discord https://l.technotim.live/discord
+► Discord https://l.technotim.com/discord
 
 ► GitHub https://github.com/timothystewart6

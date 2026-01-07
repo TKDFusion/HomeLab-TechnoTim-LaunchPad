@@ -2,7 +2,7 @@
 version: "3.0"
 services:
   littlelink-server:
-    image: ghcr.io/techno-tim/littlelink-server:latest
+    image: ghcr.io/timothystewart6/littlelink-server:latest
     container_name: littlelink-server
     environment:
       - META_TITLE=Techno Tim
@@ -24,7 +24,7 @@ services:
       # you can render an unlimited amount of custom buttons by adding 
       # the CUSTOM_BUTTON_* variables and by using a comma as a separator.
       - CUSTOM_BUTTON_TEXT=Visit My Site,Visit My OTHER Site
-      - CUSTOM_BUTTON_URL=https://technotim.live,https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A
+      - CUSTOM_BUTTON_URL=https://technotim.com,https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A
       - CUSTOM_BUTTON_COLOR=#ED2756,#0085FF
       - CUSTOM_BUTTON_TEXT_COLOR=#ffffff,#ffffff
       - CUSTOM_BUTTON_ALT_TEXT=Visit my site!,Visit my OTHER Site!
@@ -37,7 +37,7 @@ services:
       - INSTAGRAM=https://www.instagram.com/techno.tim
       - YOUTUBE=https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A
       - TWITCH=https://www.twitch.tv/technotim/
-      - DISCORD=https://l.technotim.live/discord
+      - DISCORD=https://l.technotim.com/discord
       - TIKTOK=https://www.tiktok.com/@technotim
       - KIT=https://kit.co/TechnoTim
       - FACEBOOK=https://facebook.com
